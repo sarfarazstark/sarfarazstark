@@ -45,7 +45,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sarfarazstark"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sarfarazstark" /></a><a href="https://ko-fi.com/sarfarazstark"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sarfarazstark" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarfarazstark&show_icons=true&locale=en&layout=compact" alt="sarfarazstark" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarfarazstark&show_icons=true&locale=en&layout=compact" alt="sarfarazstark" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarfarazstark&show_icons=true&locale=en" alt="sarfarazstark" /></p>
 

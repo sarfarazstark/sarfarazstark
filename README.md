@@ -49,6 +49,6 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarfarazstark&show_icons=true&locale=en" alt="sarfarazstark" /></p>
 
-<p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sarfarazstark&" alt="sarfarazstark" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarfarazstark&" alt="sarfarazstark" /></p>
 
-<a href="https://app.daily.dev/sarfarazdev" align="left"><img src="https://api.daily.dev/devcards/8de79698b9f1463bbaf5a6e46dc28574.png?r=q23" width="400" alt="Sarfaraz Alam's Dev Card"/></a>
+<a href="https://app.daily.dev/sarfarazdev" align="center"><img src="https://api.daily.dev/devcards/8de79698b9f1463bbaf5a6e46dc28574.png?r=q23" width="400" alt="Sarfaraz Alam's Dev Card"/></a>

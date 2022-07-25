@@ -45,10 +45,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sarfarazstark"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sarfarazstark" /></a><a href="https://ko-fi.com/sarfarazstark"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sarfarazstark" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarfarazstark&show_icons=true&locale=en&layout=compact" alt="sarfarazstark" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarfarazstark&show_icons=true&locale=en&layout=compact" alt="sarfarazstark" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sarfarazstark&show_icons=true&locale=en" alt="sarfarazstark" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarfarazstark&show_icons=true&locale=en" alt="sarfarazstark" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sarfarazstark&" alt="sarfarazstark" /></p>
+<p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sarfarazstark&" alt="sarfarazstark" /></p>
 
 <a href="https://app.daily.dev/sarfarazdev" align="left"><img src="https://api.daily.dev/devcards/8de79698b9f1463bbaf5a6e46dc28574.png?r=q23" width="400" alt="Sarfaraz Alam's Dev Card"/></a>

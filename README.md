@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Awwwesome Repo<br><br>🌱 I’m currently learning Javascript<br><br>👨‍💻 All of my projects are available at https://peerlist.io/sarfaraz<br><br>💬 Ask me about Html, CSS, VsCode, Git, Github<br><br>📫 How to reach me sarfarazstark@gmail.com<br><br>⚡ Fun fact I like all programming but can`t learn all
-
+<a align="right" href="https://app.daily.dev/sarfarazstark"><img src="https://api.daily.dev/devcards/8de79698b9f1463bbaf5a6e46dc28574.png?r=9e7" width="400" alt="Sarfaraz Alam's Dev Card"/></a>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sarfarazstark) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mesarfarazstark) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarfarazstark) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarfarazstark) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sarfarazstark) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sarfarazstark) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/sarfarazstark) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16217966) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/sarfarazstark) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sarfarazstark) 
@@ -20,7 +20,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sarfarazstark&icon=9&color=12)](https://visitcount.itsvg.in)
-<a align="right" href="https://app.daily.dev/sarfarazstark"><img src="https://api.daily.dev/devcards/8de79698b9f1463bbaf5a6e46dc28574.png?r=9e7" width="400" alt="Sarfaraz Alam's Dev Card"/></a>
+
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sarfarazstark) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sarfarazstark) 

@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Awwwesome Repo<br><br>🌱 I’m currently learning Javascript<br><br>👨‍💻 All of my projects are available at https://peerlist.io/sarfaraz<br><br>💬 Ask me about Html, CSS, VsCode, Git, Github<br><br>📫 How to reach me sarfarazstark@gmail.com<br><br>⚡ Fun fact Computer Was A Job Title
+<a align="right" href="https://app.daily.dev/sarfarazstark"><img src="https://api.daily.dev/devcards/8de79698b9f1463bbaf5a6e46dc28574.png?r=9e7" width="400" alt="Sarfaraz Alam's Dev Card" align="right" /></a>
+🔭 I’m currently working on Awwwesome Repo<br><br>🌱 I’m currently learning Javascript<br><br>👨‍💻 All of my projects are available at https://peerlist.io/sarfaraz<br><br>💬 Ask me about Html, CSS, VsCode, Git, Github<br><br>📫 How to reach me sarfarazstark@gmail.com<br><br>⚡ Fun fact Computer Was A Job Title <br>
 
 
 ## 🌐 Socials:
@@ -10,8 +11,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sarfarazstark&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sarfarazstark&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarfarazstark&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact align="left")
-<a align="right" href="https://app.daily.dev/sarfarazstark"><img src="https://api.daily.dev/devcards/8de79698b9f1463bbaf5a6e46dc28574.png?r=9e7" width="400" alt="Sarfaraz Alam's Dev Card"/></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarfarazstark&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/> <br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)

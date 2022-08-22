@@ -12,10 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sarfarazstark&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarfarazstark&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+<h3> ✍️ Random Dev Quote</h3>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
+<h3 align="right"> 😂 Random Dev Meme</h3>
 <img src="https://random-memer.herokuapp.com/" width="512px" align="right"/>
 
 ---

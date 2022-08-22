@@ -20,6 +20,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sarfarazstark&icon=9&color=12)](https://visitcount.itsvg.in)
+<a align="right" href="https://app.daily.dev/sarfarazstark"><img src="https://api.daily.dev/devcards/8de79698b9f1463bbaf5a6e46dc28574.png?r=9e7" width="400" alt="Sarfaraz Alam's Dev Card"/></a>
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sarfarazstark) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sarfarazstark) 

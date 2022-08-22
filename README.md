@@ -16,7 +16,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://random-memer.herokuapp.com/" width="512px" align="left"/>
+
 <a align="right" href="https://app.daily.dev/sarfarazstark"><img src="https://api.daily.dev/devcards/8de79698b9f1463bbaf5a6e46dc28574.png?r=9e7" width="400" alt="Sarfaraz Alam's Dev Card"/></a>
 
 ---

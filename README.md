@@ -12,11 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sarfarazstark&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarfarazstark&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<h3> ✍️ Random Dev Quote</h3>
+<h3>✍️ Random Dev Quote</h3>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<h3 align="right"> 😂 Random Dev Meme</h3>
-<img src="https://random-memer.herokuapp.com/" width="512px" align="right"/>
+<h3 align="right"> 😂 Random Dev Meme</h3><img src="https://random-memer.herokuapp.com/" width="512px" align="right"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sarfarazstark&icon=9&color=12)](https://visitcount.itsvg.in)

@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sarfarazstark&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sarfarazstark&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarfarazstark&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarfarazstark&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact align="left")
 <a align="right" href="https://app.daily.dev/sarfarazstark"><img src="https://api.daily.dev/devcards/8de79698b9f1463bbaf5a6e46dc28574.png?r=9e7" width="400" alt="Sarfaraz Alam's Dev Card"/></a>
 
 ### ✍️ Random Dev Quote

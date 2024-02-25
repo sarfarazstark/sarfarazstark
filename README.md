@@ -1,5 +1,5 @@
 # 💫 About Me:
-<a align="right" href="https://app.daily.dev/sarfarazstark"><img src="https://api.daily.dev/devcards/8de79698b9f1463bbaf5a6e46dc28574.png?r=9e7" width="300" alt="Sarfaraz Alam's Dev Card" align="right" /></a>
+<a align="right" href="https://api.daily.dev/devcards/v2/NNr90EP29.png?r=won&type=default" width="356" alt="Sarfaraz Stark's Dev Card" width="300" alt="Sarfaraz Alam's Dev Card" align="right" /></a>
 🔭 I’m currently working on [FrontendMentor](https://www.frontendmentor.io/profile/sarfarazstark) Challenges<br><br>🌱 I’m currently learning Javascript<br><br>👨‍💻 All of my projects will be available at sarfaraz.is-a.dev soon 😉<br><br>💬 Ask me about HTML, CSS, VsCode, Git, Github<br><br>📫 How to reach me sarfarazstark@gmail.com<br><br>⚡ Fun fact Computer Was A Job Title
 
 

@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome file</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><hr>
+<ol>
+<li>
+<p><strong>SQL Code:</strong></p>
+<pre class=" language-sql"><code class="prism  language-sql"><span class="token keyword">create</span> <span class="token keyword">table</span> sports_stud <span class="token punctuation">(</span>
+    roll number<span class="token punctuation">(</span><span class="token number">6</span><span class="token punctuation">)</span> <span class="token keyword">CONSTRAINT</span> PK_roll <span class="token keyword">primary</span> <span class="token keyword">key</span><span class="token punctuation">,</span> 
+    name <span class="token keyword">varchar</span><span class="token punctuation">(</span><span class="token number">20</span><span class="token punctuation">)</span> <span class="token keyword">CONSTRAINT</span> unq_name <span class="token keyword">UNIQUE</span><span class="token punctuation">,</span>
+    dept <span class="token keyword">varchar</span><span class="token punctuation">(</span><span class="token number">2</span><span class="token punctuation">)</span> <span class="token keyword">CONSTRAINT</span> CHK_dept <span class="token keyword">Check</span><span class="token punctuation">(</span>dept<span class="token operator">=</span><span class="token string">'CS'</span> <span class="token operator">OR</span> dept<span class="token operator">=</span><span class="token string">'IT'</span><span class="token punctuation">)</span><span class="token punctuation">,</span>
+    sports_fee number<span class="token punctuation">(</span><span class="token number">10</span><span class="token punctuation">)</span> <span class="token keyword">CONSTRAINT</span> CHK_spfee <span class="token keyword">Check</span><span class="token punctuation">(</span>sports_fee<span class="token operator">&gt;=</span><span class="token number">1000</span><span class="token punctuation">)</span>
+<span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+<span class="token keyword">create</span> <span class="token keyword">table</span> cultural_stud <span class="token punctuation">(</span>
+    roll number<span class="token punctuation">(</span><span class="token number">6</span><span class="token punctuation">)</span> <span class="token keyword">CONSTRAINT</span> PK_roll2 <span class="token keyword">primary</span> <span class="token keyword">key</span><span class="token punctuation">,</span> 
+    name <span class="token keyword">varchar</span><span class="token punctuation">(</span><span class="token number">20</span><span class="token punctuation">)</span> <span class="token keyword">CONSTRAINT</span> unq_name2 <span class="token keyword">UNIQUE</span><span class="token punctuation">,</span>
+    dept <span class="token keyword">varchar</span><span class="token punctuation">(</span><span class="token number">2</span><span class="token punctuation">)</span> <span class="token keyword">CONSTRAINT</span> CHK_dept2 <span class="token keyword">Check</span><span class="token punctuation">(</span>dept<span class="token operator">=</span><span class="token string">'CS'</span> <span class="token operator">OR</span> dept<span class="token operator">=</span><span class="token string">'IT'</span><span class="token punctuation">)</span><span class="token punctuation">,</span>
+    cul_fee number<span class="token punctuation">(</span><span class="token number">10</span><span class="token punctuation">)</span> <span class="token keyword">CONSTRAINT</span> CHK_culfee <span class="token keyword">Check</span><span class="token punctuation">(</span>cul_fee<span class="token operator">&gt;=</span><span class="token number">600</span><span class="token punctuation">)</span>
+<span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+<span class="token keyword">insert</span> <span class="token keyword">into</span> sports_stud <span class="token keyword">values</span> <span class="token punctuation">(</span><span class="token number">1</span><span class="token punctuation">,</span> <span class="token string">'Aman'</span><span class="token punctuation">,</span> <span class="token string">'IT'</span><span class="token punctuation">,</span> <span class="token number">1200</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token keyword">insert</span> <span class="token keyword">into</span> sports_stud <span class="token keyword">values</span> <span class="token punctuation">(</span><span class="token number">7</span><span class="token punctuation">,</span> <span class="token string">'Anurag'</span><span class="token punctuation">,</span> <span class="token string">'CS'</span><span class="token punctuation">,</span> <span class="token number">1500</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token keyword">insert</span> <span class="token keyword">into</span> sports_stud <span class="token keyword">values</span> <span class="token punctuation">(</span><span class="token number">2</span><span class="token punctuation">,</span> <span class="token string">'Binay'</span><span class="token punctuation">,</span> <span class="token string">'CS'</span><span class="token punctuation">,</span> <span class="token number">1700</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token keyword">insert</span> <span class="token keyword">into</span> sports_stud <span class="token keyword">values</span> <span class="token punctuation">(</span><span class="token number">8</span><span class="token punctuation">,</span> <span class="token string">'Chiranjit'</span><span class="token punctuation">,</span> <span class="token string">'CS'</span><span class="token punctuation">,</span> <span class="token number">1000</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+<span class="token keyword">insert</span> <span class="token keyword">into</span> cultural_stud <span class="token keyword">values</span> <span class="token punctuation">(</span><span class="token number">1</span><span class="token punctuation">,</span> <span class="token string">'Aman'</span><span class="token punctuation">,</span> <span class="token string">'IT'</span><span class="token punctuation">,</span> <span class="token number">700</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token keyword">insert</span> <span class="token keyword">into</span> cultural_stud <span class="token keyword">values</span> <span class="token punctuation">(</span><span class="token number">3</span><span class="token punctuation">,</span> <span class="token string">'Bipul'</span><span class="token punctuation">,</span> <span class="token string">'CS'</span><span class="token punctuation">,</span> <span class="token number">600</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>
+<p><strong>Output:</strong></p>
+<pre><code>Table created.
+Table created.
+1 row inserted.
+1 row inserted.
+1 row inserted.
+1 row inserted.
+1 row inserted.
+1 row inserted.
+</code></pre>
+</li>
+<li>
+<p><strong>SQL Code:</strong></p>
+<pre class=" language-sql"><code class="prism  language-sql"><span class="token keyword">select</span> roll<span class="token punctuation">,</span>name<span class="token punctuation">,</span>dept <span class="token keyword">from</span> sports_stud <span class="token keyword">UNION</span> <span class="token keyword">select</span> roll<span class="token punctuation">,</span>name<span class="token punctuation">,</span>dept <span class="token keyword">from</span> cultural_stud<span class="token punctuation">;</span>
+</code></pre>
+<p><strong>Output:</strong></p>
+<pre><code>ROLL  NAME       DEPT
+----- ---------- ----
+1     Aman       IT
+7     Anurag     CS
+2     Binay      CS
+8     Chiranjit  CS
+3     Bipul      CS
+</code></pre>
+</li>
+<li>
+<p><strong>SQL Code:</strong></p>
+<pre class=" language-sql"><code class="prism  language-sql"><span class="token keyword">select</span> roll<span class="token punctuation">,</span>name<span class="token punctuation">,</span>dept <span class="token keyword">from</span> sports_stud <span class="token keyword">UNION</span> <span class="token keyword">ALL</span> <span class="token keyword">select</span> roll<span class="token punctuation">,</span>name<span class="token punctuation">,</span>dept <span class="token keyword">from</span> cultural_stud<span class="token punctuation">;</span>
+</code></pre>
+<p><strong>Output:</strong></p>
+<pre><code>ROLL  NAME       DEPT
+----- ---------- ----
+1     Aman       IT
+7     Anurag     CS
+2     Binay      CS
+8     Chiranjit  CS
+1     Aman       IT
+3     Bipul      CS
+</code></pre>
+</li>
+<li>
+<p><strong>SQL Code:</strong></p>
+<pre class=" language-sql"><code class="prism  language-sql"><span class="token keyword">select</span> roll<span class="token punctuation">,</span>name<span class="token punctuation">,</span>dept <span class="token keyword">from</span> sports_stud <span class="token keyword">INTERSECT</span> <span class="token keyword">select</span> roll<span class="token punctuation">,</span>name<span class="token punctuation">,</span>dept <span class="token keyword">from</span> cultural_stud<span class="token punctuation">;</span>
+</code></pre>
+<p><strong>Output:</strong></p>
+<pre><code>ROLL  NAME  DEPT
+----- ----- ----
+1     Aman  IT
+</code></pre>
+</li>
+<li>
+<p><strong>SQL Code:</strong></p>
+<pre class=" language-sql"><code class="prism  language-sql"><span class="token keyword">select</span> roll<span class="token punctuation">,</span>name<span class="token punctuation">,</span>dept <span class="token keyword">from</span> sports_stud MINUS <span class="token keyword">select</span> roll<span class="token punctuation">,</span>name<span class="token punctuation">,</span>dept <span class="token keyword">from</span> cultural_stud<span class="token punctuation">;</span>
+</code></pre>
+<p><strong>Output:</strong></p>
+<pre><code>ROLL  NAME       DEPT
+----- ---------- ----
+7     Anurag     CS
+2     Binay      CS
+8     Chiranjit  CS
+</code></pre>
+</li>
+<li>
+<p><strong>SQL Code:</strong></p>
+<pre class=" language-sql"><code class="prism  language-sql"><span class="token keyword">select</span> roll<span class="token punctuation">,</span>name<span class="token punctuation">,</span>dept <span class="token keyword">from</span> cultural_stud MINUS <span class="token keyword">select</span> roll<span class="token punctuation">,</span>name<span class="token punctuation">,</span>dept <span class="token keyword">from</span> sports_stud<span class="token punctuation">;</span>
+</code></pre>
+<p><strong>Output:</strong></p>
+<pre><code>ROLL  NAME  DEPT
+----- ----- ----
+3     Bipul CS
+</code></pre>
+</li>
+<li>
+<p><strong>SQL Code:</strong></p>
+<pre class=" language-sql"><code class="prism  language-sql"><span class="token keyword">alter</span> <span class="token keyword">table</span> sports_stud <span class="token keyword">add</span> birthday varchar2<span class="token punctuation">(</span><span class="token number">10</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token keyword">alter</span> <span class="token keyword">table</span> cultural_stud <span class="token keyword">add</span> birthday varchar2<span class="token punctuation">(</span><span class="token number">10</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token keyword">update</span> sports_stud <span class="token keyword">set</span> birthday<span class="token operator">=</span><span class="token string">'15-06-1992'</span> <span class="token keyword">where</span> roll<span class="token operator">=</span><span class="token number">8</span><span class="token punctuation">;</span>
+<span class="token keyword">update</span> cultural_stud <span class="token keyword">set</span> birthday<span class="token operator">=</span><span class="token string">'15-03-1991'</span> <span class="token keyword">where</span> roll<span class="token operator">=</span><span class="token number">3</span><span class="token punctuation">;</span>
+</code></pre>
+<p><strong>Output:</strong></p>
+<pre><code>Table altered.
+Table altered.
+1 row updated.
+1 row updated.
+</code></pre>
+</li>
+<li>
+<p><strong>SQL Code:</strong></p>
+<pre class=" language-sql"><code class="prism  language-sql"><span class="token keyword">select</span> roll<span class="token punctuation">,</span>name<span class="token punctuation">,</span>dept<span class="token punctuation">,</span> birthday <span class="token keyword">from</span> sports_stud <span class="token keyword">UNION</span> <span class="token keyword">select</span> roll<span class="token punctuation">,</span>name<span class="token punctuation">,</span>dept<span class="token punctuation">,</span>birthday <span class="token keyword">from</span> cultural_stud<span class="token punctuation">;</span>
+</code></pre>
+<p><strong>Output:</strong></p>
+<pre><code>ROLL  NAME       DEPT  BIRTHDAY
+----- ---------- ---- ----------
+1     Aman       IT
+7     Anurag     CS
+2     Binay      CS
+8     Chiranjit  CS    15-06-1992
+3     Bipul      CS    15-03-1991
+</code></pre>
+</li>
+<li>
+<p><strong>SQL Code:</strong></p>
+<pre class=" language-sql"><code class="prism  language-sql"><span class="token keyword">select</span> name<span class="token operator">||</span><span class="token string">' Who studies in '</span><span class="token operator">||</span> dept <span class="token operator">||</span><span class="token string">' dept pays Rs '</span><span class="token operator">||</span> sports_fee <span class="token operator">||</span><span class="token string">' for sports'</span> <span class="token keyword">from</span> sports_stud<span class="token punctuation">;</span>
+</code></pre>
+<p><strong>Output:</strong></p>
+<pre><code>NAME||'WHO STUDIES IN '||DEPT||' DEPT PAYS RS '||SPORTS_FEE||' FOR SPORTS'
+--------------------------------------------------------------------------
+Aman Who studies in IT dept pays Rs 1200 for sports
+Anurag Who studies in CS dept pays Rs 1500 for sports
+Binay Who studies in CS dept pays Rs 1700 for sports
+Chiranjit Who studies in CS dept pays Rs 1000 for sports
+</code></pre>
+</li>
+<li>
+<p><strong>SQL Code:</strong></p>
+<pre class=" language-sql"><code class="prism  language-sql"><span class="token keyword">select</span> roll<span class="token punctuation">,</span>name<span class="token punctuation">,</span>dept<span class="token punctuation">,</span>sports_fee <span class="token keyword">from</span> sports_stud <span class="token keyword">where</span> dept<span class="token operator">=</span><span class="token string">'IT'</span> <span class="token keyword">UNION</span> <span class="token keyword">select</span> roll<span class="token punctuation">,</span>name<span class="token punctuation">,</span>dept<span class="token punctuation">,</span>cul_fee <span class="token keyword">from</span> cultural_stud <span class="token keyword">where</span> dept<span class="token operator">=</span><span class="token string">'IT'</span><span class="token punctuation">;</span>
+</code></pre>
+<p><strong>Output:</strong></p>
+<pre><code>ROLL  NAME  DEPT  SPORTS_FEE
+----- ----- ----  -----------
+1     Aman  IT    1200
+1     Aman  IT    700
+</code></pre>
+</li>
+<li>
+<p><strong>SQL Code:</strong></p>
+<pre class=" language-sql"><code class="prism  language-sql"><span class="token keyword">SELECT</span> <span class="token function">sum</span><span class="token punctuation">(</span>sports_fee<span class="token punctuation">)</span> <span class="token keyword">from</span> <span class="token punctuation">(</span><span class="token keyword">select</span> roll<span class="token punctuation">,</span>name<span class="token punctuation">,</span>dept<span class="token punctuation">,</span>sports_fee <span class="token keyword">from</span> sports_stud <span class="token keyword">UNION</span> <span class="token keyword">ALL</span> <span class="token keyword">select</span> roll<span class="token punctuation">,</span>name<span class="token punctuation">,</span>dept<span class="token punctuation">,</span>cul_fee <span class="token keyword">from</span> cultural_stud<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>
+<p><strong>Output:</strong></p>
+<pre><code>SUM(SPORTS_FEE)
+---------------
+6300
+</code></pre>
+</li>
+<li>
+<p><strong>SQL Code:</strong></p>
+<pre class=" language-sql"><code class="prism  language-sql"><span class="token keyword">select</span> <span class="token operator">*</span> <span class="token keyword">from</span> <span class="token punctuation">(</span><span class="token keyword">select</span> roll<span class="token punctuation">,</span>name<span class="token punctuation">,</span>dept<span class="token punctuation">,</span>sports_fee <span class="token keyword">from</span> sports_stud <span class="token keyword">UNION</span> <span class="token keyword">ALL</span> <span class="token keyword">select</span> roll<span class="token punctuation">,</span>name<span class="token punctuation">,</span>dept<span class="token punctuation">,</span>cul_fee <span class="token keyword">from</span> cultural_stud<span class="token punctuation">)</span> <span class="token keyword">order</span> <span class="token keyword">by</span> roll <span class="token keyword">desc</span><span class="token punctuation">;</span>
+</code></pre>
+<p><strong>Output:</strong></p>
+<pre><code>ROLL  NAME       DEPT  SPORTS_FEE
+----- ---------- ----  -----------
+8     Chiranjit  CS    1000
+7     Anurag     CS    1500
+3     Bipul      CS    600
+2     Binay      CS    1700
+1     Aman       IT    1200
+1     Aman       IT    700
+</code></pre>
+</li>
+<li>
+<p><strong>SQL Code:</strong></p>
+<pre class=" language-sql"><code class="prism  language-sql"><span class="token keyword">alter</span> <span class="token keyword">table</span> sports_stud <span class="token keyword">drop</span> <span class="token keyword">constraint</span> CHK_dept<span class="token punctuation">;</span>
+<span class="token keyword">alter</span> <span class="token keyword">table</span> sports_stud <span class="token keyword">drop</span> <span class="token keyword">constraint</span> CHK_spfee<span class="token punctuation">;</span>
+</code></pre>
+<p><strong>Output:</strong></p>
+<pre><code>Table altered.
+Table altered.
+</code></pre>
+</li>
+<li>
+<p><strong>SQL Code:</strong></p>
+<pre class=" language-sql"><code class="prism  language-sql"><span class="token keyword">SELECT</span> <span class="token function">MAX</span><span class="token punctuation">(</span>sports_fee<span class="token punctuation">)</span><span class="token punctuation">,</span> <span class="token function">AVG</span><span class="token punctuation">(</span>sports_fee<span class="token punctuation">)</span><span class="token punctuation">,</span> <span class="token function">MIN</span><span class="token punctuation">(</span>sports_fee<span class="token punctuation">)</span> <span class="token keyword">from</span> <span class="token punctuation">(</span><span class="token keyword">select</span> roll<span class="token punctuation">,</span>name<span class="token punctuation">,</span>dept<span class="token punctuation">,</span>sports_fee <span class="token keyword">from</span> sports_stud <span class="token keyword">UNION</span> <span class="token keyword">ALL</span> <span class="token keyword">select</span> roll<span class="token punctuation">,</span>name<span class="token punctuation">,</span>dept<span class="token punctuation">,</span>cul_fee <span class="token keyword">from</span> cultural_stud<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>
+<p><strong>Output:</strong></p>
+<pre><code>MAX(SPORTS_FEE)  AVG(SPORTS_FEE)  MIN(SPORTS_FEE)
+---------------  ---------------  ---------------
+1700             1050             600
+</code></pre>
+</li>
+</ol>
+<hr>
+</div>
+</body>
+
+</html>

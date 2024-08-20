@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FrontendMentor Challenges<br><br>🌱 I’m currently learning Javascript<br><br>👨‍💻 All of my projects will be available at sarfaraz.is-a.dev soon 😉<br><br>💬 Ask me about HTML, CSS, JavaScript, VsCode, Git, Github<br><br>📫 How to reach me sarfarazstark@gmail.com
+🔭 I’m currently practicing with FrontendMentor Challenges<br><br>🌱 I’m currently learning Javascript<br><br>👨‍💻 All of my projects will be available at sarfaraz.is-a.dev soon 😉<br><br>💬 Ask me about HTML, CSS, JavaScript, VsCode, Git, Github<br><br>📫 How to reach me sarfarazstark@gmail.com
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently practicing with FrontendMentor Challenges<br><br>🌱 I’m currently learning Javascript<br><br>👨‍💻 All of my projects will be available at sarfaraz.is-a.dev soon 😉<br><br>💬 Ask me about HTML, CSS, JavaScript, VsCode, Git, Github<br><br>📫 How to reach me sarfarazstark@gmail.com
+I'm an engineering student with a passion for technology and investing. I love working on dynamic web projects using modern JavaScript and tools like Parcel. My interests include exploring new tech innovations and creating interactive and impactful applications.
 
 
 # 💻 Tech Stack:

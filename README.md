@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an engineering student with a passion for technology and investing. I love working on dynamic web projects using modern JavaScript and tools like Parcel. My interests include exploring new tech innovations and creating interactive and impactful applications.
+I'm an engineering student with a passion for technology and investing. I love working on dynamic web projects using modern JavaScript. My interests include exploring new tech innovations and creating interactive and impactful applications.
 
 
 # 💻 Tech Stack:

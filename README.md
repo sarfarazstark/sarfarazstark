@@ -13,6 +13,10 @@ I'm an engineering student with a passion for technology and investing. I love w
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarfarazstark&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sarfarazstark&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github-readme-stats.vercel.app/api/wakatime?username=sarfarazstark&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
 [![](https://visitcount.itsvg.in/api?id=sarfarazstark&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

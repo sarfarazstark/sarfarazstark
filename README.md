@@ -16,7 +16,4 @@ I'm a student with a passion for technology and investing. I love working on dyn
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sarfarazstark&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github-readme-stats.vercel.app/api/wakatime?username=sarfarazstark&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=sarfarazstark&icon=0&color=0)](https://visitcount.itsvg.in)
-
-[](https://visitcount.itsvg.in/api?id=sarfarazstark&icon=0&color=0)
+[![wakatime](https://wakatime.com/badge/user/ddf0c83c-09c7-4b46-8287-2bb40961bac6.svg)](https://wakatime.com/@ddf0c83c-09c7-4b46-8287-2bb40961bac6)

@@ -19,4 +19,4 @@ I'm a student with a passion for technology and investing. I love working on dyn
 ---
 [![](https://visitcount.itsvg.in/api?id=sarfarazstark&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src"https://visitcount.itsvg.in/api?id=sarfarazstark&icon=0&color=0" >
+[](https://visitcount.itsvg.in/api?id=sarfarazstark&icon=0&color=0)

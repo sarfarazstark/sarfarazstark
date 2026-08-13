@@ -10,8 +10,6 @@ I'm a student with a passion for technology and investing. I love working on dyn
 # 📊 GitHub Stats:
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sarfarazstark&show_icons=true&include_all_commits=true&theme=vue)](https://github-stats-extended.vercel.app/api?username=sarfarazstark&show_icons=true&include_all_commits=true&theme=vue)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=sarfarazstark&layout=compact&hide_title=true&langs_count=10&theme=vue)](https://github-stats-extended.vercel.app/api/top-langs?username=sarfarazstark&layout=compact&hide_title=true&langs_count=10&theme=vue)
----
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sarfarazstark&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github-readme-stats.vercel.app/api/wakatime?username=sarfarazstark&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 [![wakatime](https://wakatime.com/badge/user/ddf0c83c-09c7-4b46-8287-2bb40961bac6.svg)](https://wakatime.com/@ddf0c83c-09c7-4b46-8287-2bb40961bac6)
